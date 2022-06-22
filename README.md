@@ -18,6 +18,9 @@ at the end.
 For each solution, we'll work through the steps and discuss our problem solving
 process as well so you can see how we ended up with these particular algorithms.
 
+<!-- make a function that retruns true if palindomrome is false is not 
+that means if the word is the same word in reverse I should ture  -->
+
 As a reminder, here are the instructions:
 
 > Write a function `isPalindrome` that will receive one argument, a string. Your
